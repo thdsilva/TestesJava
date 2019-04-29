@@ -13,7 +13,7 @@ public class Bijuteria {
     System.out.println("Preço: " + this.preco);
     System.out.println("Peso: " + this.peso + "g");
     System.out.println("Vendido: " + this.vendido + "\n");
-    System.out.println("");
+    //System.out.println("");
 }
 }
 
